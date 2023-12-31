@@ -10,4 +10,4 @@ features accomplish the required results. In this project, all information is ex
 the PDF and that is passed into a trained model.
 
 ## DEMO
-[Click here](ec2-13-53-205-38.eu-north-1.compute.amazonaws.com)
+[Click here](http://ec2-13-53-205-38.eu-north-1.compute.amazonaws.com/)
