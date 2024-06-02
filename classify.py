@@ -32,7 +32,7 @@ def ConvString(talklist):
   RetString = re.sub(r'\s+',' ',RetString)
   return RetString
 
-fname = 'AbhishekResume.pdf'
+fname = 'Alice Clark CV.pdf'
 doc = fitz.open(fname)
 text = ""
 for page in doc:
